@@ -1,4 +1,4 @@
-module github.com/m3o/sentiment-api//
+module github.com/m3o/sentiment-api
 
 go 1.15
 
