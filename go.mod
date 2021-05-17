@@ -11,7 +11,7 @@ require (
 	github.com/google/uuid v1.2.0
 	github.com/gosimple/slug v1.9.0
 	github.com/micro/dev v0.0.0-20201117163752-d3cfc9788dfa
-	github.com/micro/micro/v3 v3.2.1
+	github.com/micro/micro/v3 v3.2.2-0.20210515174306-b0144d41f782
 	github.com/miekg/dns v1.1.31 // indirect
 	github.com/stretchr/objx v0.2.0 // indirect
 	github.com/ulikunitz/xz v0.5.8 // indirect
