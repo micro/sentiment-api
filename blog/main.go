@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/micro/services/blog/handler"
-	proto "github.com/micro/services/blog/proto"
-	comments "github.com/micro/services/comments/proto"
-	posts "github.com/micro/services/posts/proto"
-	tags "github.com/micro/services/tags/proto"
+	"github.com/m3o/sentiment-api/blog/handler"
+	proto "github.com/m3o/sentiment-api/blog/proto"
+	comments "github.com/m3o/sentiment-api/comments/proto"
+	posts "github.com/m3o/sentiment-api/posts/proto"
+	tags "github.com/m3o/sentiment-api/tags/proto"
 
 	"github.com/micro/micro/v3/service"
 	"github.com/micro/micro/v3/service/logger"

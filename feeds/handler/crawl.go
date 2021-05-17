@@ -10,9 +10,9 @@ import (
 
 	"github.com/SlyMarbo/rss"
 	log "github.com/micro/micro/v3/service/logger"
-	"github.com/micro/services/feeds/parser"
-	feeds "github.com/micro/services/feeds/proto"
-	posts "github.com/micro/services/posts/proto"
+	"github.com/m3o/sentiment-api/feeds/parser"
+	feeds "github.com/m3o/sentiment-api/feeds/proto"
+	posts "github.com/m3o/sentiment-api/posts/proto"
 )
 
 var (

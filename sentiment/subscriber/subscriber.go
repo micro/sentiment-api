@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/micro/micro/v3/service/logger"
-	pb "github.com/micro/services/posts/proto"
-	"github.com/micro/services/sentiment/model"
+	pb "github.com/m3o/sentiment-api/posts/proto"
+	"github.com/m3o/sentiment-api/sentiment/model"
 )
 
 var (

@@ -3,8 +3,8 @@ package main
 import (
 	"github.com/micro/micro/v3/service"
 	"github.com/micro/micro/v3/service/logger"
-	"github.com/micro/services/posts/handler"
-	tags "github.com/micro/services/tags/proto"
+	"github.com/m3o/sentiment-api/posts/handler"
+	tags "github.com/m3o/sentiment-api/tags/proto"
 )
 
 func main() {

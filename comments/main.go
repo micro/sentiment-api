@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/micro/micro/v3/service"
 	"github.com/micro/micro/v3/service/logger"
-	"github.com/micro/services/comments/handler"
+	"github.com/m3o/sentiment-api/comments/handler"
 )
 
 func main() {

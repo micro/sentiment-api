@@ -7,7 +7,7 @@ import (
 	"github.com/google/uuid"
 	"github.com/micro/dev/model"
 	"github.com/micro/micro/v3/service/store"
-	pb "github.com/micro/services/comments/proto"
+	pb "github.com/m3o/sentiment-api/comments/proto"
 )
 
 type Comments struct {

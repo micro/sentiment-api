@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package blog;
 
-import "github.com/micro/services/posts/proto/posts.proto";
+import "github.com/m3o/sentiment-api/posts/proto/posts.proto";
 
 service Blog {
 	// Latest returns the latest blog post

@@ -10,8 +10,8 @@ import (
 	"github.com/micro/micro/v3/service/model"
 
 	"github.com/gosimple/slug"
-	proto "github.com/micro/services/posts/proto"
-	tags "github.com/micro/services/tags/proto"
+	proto "github.com/m3o/sentiment-api/posts/proto"
+	tags "github.com/m3o/sentiment-api/tags/proto"
 )
 
 const (

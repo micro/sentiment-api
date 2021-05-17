@@ -1,10 +1,10 @@
 package main
 
 import (
-	pb "github.com/micro/services/feeds/proto"
-	posts "github.com/micro/services/posts/proto"
+	pb "github.com/m3o/sentiment-api/feeds/proto"
+	posts "github.com/m3o/sentiment-api/posts/proto"
 
-	"github.com/micro/services/feeds/handler"
+	"github.com/m3o/sentiment-api/feeds/handler"
 
 	"github.com/micro/micro/v3/service"
 	"github.com/micro/micro/v3/service/logger"
